@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.3'
 # Use sqlite3 as the database for Active Record
-gem 'sqlite3'
+# gem 'sqlite3'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 
@@ -23,7 +23,7 @@ group :development do
 	gem 'better_errors', '~> 2.1', '>= 2.1.1'
 	gem 'binding_of_caller', '~> 0.7.2'
 end
-
+gem 'pg'
 gem 'mini_magick', '~> 4.3', '>= 4.3.6'
 
 # Use jquery as the JavaScript library
