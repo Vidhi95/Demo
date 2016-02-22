@@ -1,0 +1,18 @@
+development:
+  cloud_name: vidcloud
+  api_key: '456724733956744'
+  api_secret: gmiUWMzdYAS5k0O0KYr1gKFzwvU
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: vidcloud
+  api_key: '456724733956744'
+  api_secret: gmiUWMzdYAS5k0O0KYr1gKFzwvU
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: vidcloud
+  api_key: '456724733956744'
+  api_secret: gmiUWMzdYAS5k0O0KYr1gKFzwvU
+  enhance_image_tag: true
+  static_image_support: false
